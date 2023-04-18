@@ -43,7 +43,7 @@ const LoginPagePage = () => {
           variant="OutlineBlack900_1"
         >
           Log in
-            <a> miniature4.onrender.com/ </a>
+            <a href= "miniature4.onrender.com/" </a>
         </Button>
       </div>
     </>
